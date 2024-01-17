@@ -50,7 +50,7 @@ cd your-local-path/freeCodeCamp
 
 This repository is open for contributions from anyone interested in improving the code or adding additional insights. Please feel free to open pull requests or leave comments on each project.
 
-Special thanks to the author of this Reddit [post](https://www.reddit.com/r/learnprogramming/comments/115oopc/freecodecamps_machine_learning_certificate/) for offering valuable guidelines! As well as 
+Special thanks to the author of this Reddit [post](https://www.reddit.com/r/learnprogramming/comments/115oopc/freecodecamps_machine_learning_certificate/) for offering valuable guidelines!
 
 I hope this repository serves as a valuable resource for learning and exploring machine learning concepts in Python. Happy coding!
 
